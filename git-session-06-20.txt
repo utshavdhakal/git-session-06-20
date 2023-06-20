@@ -1,0 +1,14 @@
+git init
+ - To initialize git repository
+
+git add filename.ext filename.ext
+ - To add files to staging area
+
+git commit -m "your message here"
+ - To capture file after staging
+
+git status
+ - Provides information about current git repo
+
+git log
+ - Display commit in this repo
